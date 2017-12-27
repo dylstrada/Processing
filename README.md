@@ -4,6 +4,6 @@ Here are some of my independent explorations in Processing. Feel free to check o
 
 CirclePixels: "grows" a mosaic-like cluster of circles based on an initial image.
 
-MengerSponge: a 3D fractal. Iterations are capped so you don't brick your GPU :)
+MengerSponge: a 3D fractal. Iterations are capped so you don't kill your GPU :)
 
 MultiplicationArt: visual depiction of modular multiplication around a circle. Click on screen to change factor.
